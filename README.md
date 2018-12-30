@@ -1,2 +1,2 @@
 # SmartHome
-My SmartHome System
+My SmartHome System using GraphQL
